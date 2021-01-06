@@ -2,4 +2,4 @@
 ## Java
 
 - Have learned Git
-- Know how to work with it _*GitHub*_
+- Know how to work with _*GitHub*_
